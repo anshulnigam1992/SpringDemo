@@ -77,4 +77,4 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 Author:
 Anshul Nigam
 
-
+abc
